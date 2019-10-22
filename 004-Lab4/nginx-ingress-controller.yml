@@ -1,4 +1,4 @@
-# updated this file with the latest ingress-controller from https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/mandatory.yaml
+# updated this file with the latest ingress-controller from https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/mandatory.yaml
 apiVersion: extensions/v1beta1
 kind: DaemonSet
 metadata:
